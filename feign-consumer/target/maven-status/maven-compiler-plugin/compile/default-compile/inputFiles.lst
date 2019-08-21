@@ -1,0 +1,4 @@
+F:\github-layman\spring-cloud-alibaba\feign-consumer\src\main\java\com\layman\consumer\feign\controller\NacosConsumerFeignController.java
+F:\github-layman\spring-cloud-alibaba\feign-consumer\src\main\java\com\layman\consumer\feign\fallback\EchoServiceFallback.java
+F:\github-layman\spring-cloud-alibaba\feign-consumer\src\main\java\com\layman\consumer\feign\NacosConsumerFeignApplication.java
+F:\github-layman\spring-cloud-alibaba\feign-consumer\src\main\java\com\layman\consumer\feign\service\EchoService.java
