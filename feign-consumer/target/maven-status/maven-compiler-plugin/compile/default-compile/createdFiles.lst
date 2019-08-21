@@ -1,4 +1,0 @@
-com\layman\consumer\feign\fallback\EchoServiceFallback.class
-com\layman\consumer\feign\controller\NacosConsumerFeignController.class
-com\layman\consumer\feign\service\EchoService.class
-com\layman\consumer\feign\NacosConsumerFeignApplication.class
